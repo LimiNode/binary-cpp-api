@@ -4,7 +4,7 @@
 
 ### Внимание!
 
-Рекомендую перейти на библиотеку [optionx_cpp](https://github.com/NewYaroslav/optionx_cpp) после добавления в неё API Binary, так как проект `binary-cpp-api` развиваться дальше не будет.
+Рекомендую перейти на библиотеку [optionx_cpp](https://github.com/LimiNode/optionx_cpp) после добавления в неё API Binary, так как проект `binary-cpp-api` развиваться дальше не будет.
 
 ### Описание
 
@@ -526,7 +526,7 @@ int download_and_save_all_data_with_compression(
 }
 ```
 
-На данный момент данные по процентам выплат будут храниться в репозитории [https://github.com/NewYaroslav/binary_historical_data](https://github.com/NewYaroslav/binary_historical_data). 
+На данный момент данные по процентам выплат будут храниться в репозитории [https://github.com/LimiNode/binary_historical_data](https://github.com/LimiNode/binary_historical_data). 
 
 Программа *martingale_does_not_work.exe* позволяет сравнить разные варианты мани менеджмента и прийти к выводу, что мартингейл не работает.
 
@@ -542,8 +542,8 @@ int download_and_save_all_data_with_compression(
 * *Библиотека OpenSSL (необходимо для BinaryApi)* - [http://slproweb.com/products/Win32OpenSSL.html](http://slproweb.com/products/Win32OpenSSL.html)
 * *Библиотека JSON (необходимо для BinaryApi)* - [https://github.com/nlohmann/json](https://github.com/nlohmann/json)
 * *Библиотека zstd (для работы с сжатыми файлами)* - [https://github.com/facebook/zstd](https://github.com/facebook/zstd)
-* *Библиотека xtime (необходимо для BinaryApi и для работы с файлами)* - [https://github.com/NewYaroslav/xtime_cpp.git](https://github.com/NewYaroslav/xtime_cpp.git)
-* *Библиотека banana-filesystem-cpp (для работы с файлами)* - [https://github.com/NewYaroslav/banana-filesystem-cpp](https://github.com/NewYaroslav/banana-filesystem-cpp)
+* *Библиотека xtime (необходимо для BinaryApi и для работы с файлами)* - [https://github.com/LimiNode/xtime_cpp.git](https://github.com/LimiNode/xtime_cpp.git)
+* *Библиотека banana-filesystem-cpp (для работы с файлами)* - [https://github.com/LimiNode/banana-filesystem-cpp](https://github.com/LimiNode/banana-filesystem-cpp)
 * *Библиотека imgui (для программы martingale_does_not_work)* - [https://github.com/ocornut/imgui](https://github.com/ocornut/imgui)
 * *Библиотека imgui-sfml (для программы martingale_does_not_work)* - [https://github.com/eliasdaler/imgui-sfml](https://github.com/eliasdaler/imgui-sfml)
 * *Библиотека SFML (для программы martingale_does_not_work)* - [https://www.sfml-dev.org/](https://www.sfml-dev.org/)
